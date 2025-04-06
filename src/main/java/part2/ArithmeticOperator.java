@@ -24,5 +24,7 @@ public class ArithmeticOperator {
 		System.out.println(result);
 		System.out.println(a);
 		
+		
+		
 	}
 }
